@@ -1,0 +1,146 @@
+{
+  "France": {
+    "Bordeaux": ["Médoc", "Haut-Médoc", "Saint-Émilion", "Pomerol", "Fronsac", "Graves", "Pessac-Léognan", "Sauternes", "Barsac", "Entre-Deux-Mers"],
+    "Burgundy": ["Côte de Nuits", "Côte de Beaune", "Chablis", "Côte Chalonnaise", "Mâconnais", "Beaujolais"],
+    "Rhône Valley": ["Northern Rhône", "Southern Rhône", "Côte-Rôtie", "Hermitage", "Crozes-Hermitage", "Saint-Joseph", "Condrieu", "Châteauneuf-du-Pape", "Gigondas", "Vacqueyras"],
+    "Alsace": ["Haut-Rhin", "Bas-Rhin"],
+    "Loire Valley": ["Sancerre", "Pouilly-Fumé", "Muscadet", "Chinon", "Bourgueil", "Anjou", "Saumur", "Vouvray", "Montlouis-sur-Loire"],
+    "Champagne": ["Montagne de Reims", "Vallée de la Marne", "Côte des Blancs", "Aube"],
+    "Provence": ["Côtes de Provence", "Bandol", "Cassis", "Palette"],
+    "Languedoc-Roussillon": ["Pic Saint-Loup", "Faugères", "Saint-Chinian", "Minervois", "Corbières", "Fitou", "Roussillon"],
+    "South-West France": ["Bergerac", "Cahors", "Gaillac", "Madiran", "Jurançon"],
+    "Jura": [],
+    "Savoie": []
+  },
+  "Italy": {
+    "Piedmont": ["Barolo", "Barbaresco", "Asti", "Monferrato", "Langhe", "Roero", "Gavi"],
+    "Tuscany": ["Chianti", "Chianti Classico", "Brunello di Montalcino", "Vino Nobile di Montepulciano", "Bolgheri", "Maremma", "Morellino di Scansano"],
+    "Veneto": ["Amarone della Valpolicella", "Valpolicella", "Ripasso", "Soave", "Prosecco", "Bardolino"],
+    "Friuli-Venezia Giulia": ["Collio", "Friuli Colli Orientali"],
+    "Trentino-Alto Adige": ["Alto Adige", "Trentino"],
+    "Sicily": ["Etna", "Marsala", "Pantelleria"],
+    "Sardinia": [],
+    "Campania": ["Taurasi", "Fiano di Avellino", "Greco di Tufo"],
+    "Puglia": ["Primitivo di Manduria", "Salice Salentino"],
+    "Umbria": ["Sagrantino di Montefalco", "Orvieto"],
+    "Marche": ["Verdicchio dei Castelli di Jesi", "Rosso Conero"]
+  },
+  "Spain": {
+    "Rioja": ["Rioja Alta", "Rioja Alavesa", "Rioja Oriental"],
+    "Ribera del Duero": [],
+    "Priorat": [],
+    "Rías Baixas": [],
+    "Penedès": [],
+    "Cava": [],
+    "Jerez": [],
+    "Bierzo": [],
+    "Rueda": [],
+    "Toro": [],
+    "Jumilla": [],
+    "Montsant": []
+  },
+  "Germany": {
+    "Mosel": ["Saar", "Ruwer"],
+    "Rheingau": [],
+    "Pfalz": [],
+    "Rheinhessen": [],
+    "Baden": [],
+    "Franken": [],
+    "Nahe": [],
+    "Württemberg": []
+  },
+  "Portugal": {
+    "Douro": ["Cima Corgo", "Baixo Corgo", "Douro Superior"],
+    "Alentejo": ["Borba", "Évora", "Granja-Amareleja", "Moura", "Portalegre", "Redondo", "Reguengos", "Vidigueira"],
+    "Vinho Verde": ["Monção e Melgaço", "Lima", "Braga", "Bairrada"],
+    "Dão": [],
+    "Setúbal": [],
+    "Lisboa": [],
+    "Madeira": [],
+    "Port": ["Vintage Port", "LBV", "Tawny", "Colheita"]
+  },
+  "United States": {
+    "California": ["Napa Valley", "Sonoma", "Paso Robles", "Santa Barbara", "Monterey", "Mendocino", "Lodi", "Sierra Foothills"],
+    "Oregon": ["Willamette Valley", "Umpqua Valley", "Rogue Valley"],
+    "Washington": ["Columbia Valley", "Walla Walla Valley", "Yakima Valley", "Red Mountain"],
+    "New York": ["Finger Lakes", "Long Island", "Hudson Valley"]
+  },
+  "Australia": {
+    "South Australia": ["Barossa Valley", "Eden Valley", "McLaren Vale", "Clare Valley", "Coonawarra", "Langhorne Creek", "Padthaway"],
+    "Victoria": ["Yarra Valley", "Mornington Peninsula", "Heathcote", "Rutherglen", "Macedon Ranges"],
+    "Western Australia": ["Margaret River", "Great Southern", "Swan Valley"],
+    "New South Wales": ["Hunter Valley", "Orange", "Mudgee"],
+    "Tasmania": []
+  },
+  "Argentina": {
+    "Mendoza": ["Luján de Cuyo", "Maipú", "Valle de Uco", "San Rafael"],
+    "Salta": ["Cafayate", "Calchaquí Valley"],
+    "Patagonia": ["Neuquén", "Río Negro"],
+    "La Rioja": [],
+    "San Juan": []
+  },
+  "Chile": {
+    "Maipo Valley": [],
+    "Colchagua Valley": [],
+    "Casablanca Valley": [],
+    "Aconcagua": [],
+    "Leyda Valley": [],
+    "Elqui Valley": [],
+    "Maule Valley": [],
+    "Itata Valley": []
+  },
+  "South Africa": {
+    "Stellenbosch": [],
+    "Paarl": [],
+    "Swartland": [],
+    "Franschhoek": [],
+    "Walker Bay": [],
+    "Elgin": [],
+    "Constantia": []
+  },
+  "New Zealand": {
+    "Marlborough": ["Wairau Valley", "Awatere Valley"],
+    "Hawke's Bay": ["Gimblett Gravels"],
+    "Central Otago": [],
+    "Martinborough": [],
+    "Waipara Valley": [],
+    "Gisborne": []
+  },
+  "Austria": {
+    "Wachau": ["Smaragd", "Federspiel", "Steinfeder"],
+    "Burgenland": ["Neusiedlersee", "Leithaberg", "Mittelburgenland"],
+    "Kamptal": [],
+    "Kremstal": [],
+    "Weinviertel": [],
+    "Styria": ["Südsteiermark", "Weststeiermark"]
+  },
+  "Greece": {
+    "Santorini": [],
+    "Peloponnese": ["Nemea", "Mantineia"],
+    "Macedonia": ["Naoussa", "Amyndeon", "Drama"],
+    "Cephalonia": [],
+    "Rhodes": []
+  },
+  "Switzerland": {
+    "Valais": ["Chamoson", "Fully", "Leytron", "Sierre", "Visperterminen"],
+    "Vaud": ["La Côte", "Lavaux", "Chablais"],
+    "Geneva": ["Mandement", "Entre Arve et Rhône"],
+    "Ticino": [],
+    "Graubünden": [],
+    "Three Lakes Region": ["Neuchâtel", "Bern", "Fribourg"]
+  },
+  "Hungary": {
+    "Tokaj": [],
+    "Eger": [],
+    "Villány": [],
+    "Szekszárd": []
+  },
+  "Georgia": {
+    "Kakheti": [],
+    "Kartli": [],
+    "Imeretia": []
+  },
+  "Lebanon": {
+    "Bekaa Valley": []
+  }
+}
